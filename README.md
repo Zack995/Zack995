@@ -2,7 +2,7 @@
 
 # 🔗 Welcome to Zack995's Web3 Universe
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Blockchain+Developer+%F0%9F%9A%80;Rust+%7C+Solidity+%7C+Web3+Builder;DeFi+%26+Cross-Chain+Enthusiast;Building+the+Future+of+Finance!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Senior+DeFi+Protocol+Developer+%F0%9F%9A%80;Solidity+%7C+Rust+%7C+Multi-Chain+Expert;Aave+%7C+DODO+%7C+Cross-Chain+Migration;10M%2B+Pools+Data+Infrastructure!" alt="Typing SVG" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Zack995&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -23,15 +23,25 @@
 ```typescript
 const zack995 = {
   name: "Zack995",
-  title: "Blockchain Developer & Web3 Builder",
-  location: "🌍 Building the Decentralized Web",
-  passions: ["DeFi", "Cross-Chain", "Smart Contracts", "Rust", "Solidity"],
-  currentFocus: [
-    "🔁 Solana Cross-Chain Gateway",
-    "⚙️ DODO Routing + Anchor Automation",
-    "🛠️ MEV & Arbitrage Strategies",
+  title: "Senior Blockchain Developer & DeFi Architect",
+  location: "🌍 Building Multi-Chain DeFi Infrastructure",
+  specialties: [
+    "DeFi Protocols",
+    "Cross-Chain Development",
+    "On-Chain Data Indexing",
   ],
-  funFact: "I believe code can reshape the financial world! 💫",
+  achievements: {
+    evmContracts: "Aave V2 Leverage Contracts Development",
+    solanaRust: "DODO V2 EVM→Solana Migration, Mine & PumpFun Contracts",
+    dataIndexing: "10+ Chains, 140+ Protocols, 10M+ Pools Real-time Data",
+  },
+  currentFocus: [
+    "🏦 Advanced DeFi Protocol Development",
+    "⛓️ Cross-Chain Contract Migration",
+    "📊 Multi-Chain Data Infrastructure",
+  ],
+  philosophy:
+    "From traditional finance to DeFi - one smart contract at a time! 💫",
 };
 ```
 
@@ -75,60 +85,54 @@ const zack995 = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zack995&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-## 🚀 Current Projects & Initiatives
+## 🚀 Core Expertise & Major Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
-### 🔁 Cross-Chain Gateway
+### 🏦 EVM DeFi Development
 
-- **Focus**: Solana ↔ Ethereum Bridge
-- **Tech**: Rust, Anchor Framework
-- **Goal**: Seamless asset transfers
+- **Focus**: Aave V2 Leverage Contracts
+- **Tech**: Solidity, Hardhat
+- **Achievement**: Advanced lending protocols
 
 </td>
-<td width="50%">
+<td width="33%">
 
-### ⚙️ DODO Automation
+### ⚓ Solana Rust Development
 
-- **Focus**: Routing Optimization
-- **Tech**: TypeScript, Web3.js
-- **Goal**: MEV & Arbitrage Tools
+- **Focus**: DODO V2 EVM→Solana Migration
+- **Tech**: Rust, Anchor Framework
+- **Projects**: Mine, PumpFun Contracts
+
+</td>
+<td width="33%">
+
+### 📊 Multi-Chain Data Indexing
+
+- **Focus**: Real-time Protocol Data
+- **Scale**: 10+ Chains, 140+ Protocols
+- **Coverage**: 10M+ Pools Indexed
 
 </td>
 </tr>
 </table>
 
-## 🎪 Fun Zone
+## 🎪 GitHub Achievements
 
 <div align="center">
-
-### 🐍 Contribution Snake
-
-![Snake animation](https://github.com/Zack995/Zack995/blob/output/github-contribution-grid-snake.svg)
 
 ### 🏆 GitHub Trophies
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Zack995&theme=onedark&no-frame=true&row=1&column=6)
 
-</div>
-
 ## 🌐 Connect & Collaborate
 
 <div align="center">
 
-### 💼 Professional Links
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://zack995-portfolio.dev)
-[![Blog](https://img.shields.io/badge/Technical_Blog-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@zack995)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zack995)
-
-### 🎮 Community & Social
-
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/zack995)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/cczzc_eth)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zack995)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Connor_DJ)
 
 </div>
 
