@@ -127,7 +127,7 @@ const zack995 = {
 ### 🎮 Community & Social
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/zack995)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/zack995_dev)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/cczzc_eth)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zack995)
 
 </div>
@@ -143,8 +143,7 @@ Every smart contract is a step toward financial freedom. 🚀"_
 
 ### 🤝 Open for Collaboration
 
-📧 **Email**: [zack995.dev@gmail.com](mailto:zack995.dev@gmail.com)  
-🔗 **Calendly**: [Schedule a Web3 Chat](https://calendly.com/zack995)
+💬 **Let's connect and build the future of Web3 together!**
 
 ---
 
